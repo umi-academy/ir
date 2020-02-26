@@ -4,7 +4,7 @@
     /**
      */
 
-    declare namespace UMI_REMOTE {
+    declare namespace UMI_Remote {
     }
     
     // Auto-generated. Do not edit. Really.
