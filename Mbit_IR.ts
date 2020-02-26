@@ -14,7 +14,7 @@ namespace UMI_Remote {
     */
     //% blockId=Mbit_IR_init
     //% blockGap=20 weight=90
-    //% block="connect ir receiver to %pin"
+    //% block="Start remote with %pin"
     //% shim=Mbit_IR::init
     export function init(pin: Pins): void {
       return
