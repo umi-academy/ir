@@ -7,7 +7,7 @@ modified by Ninh.D.H
  * IR remote
  */
 //% icon="\uf1eb" weight=19 color=50
-namespace UUMI_REMOTE {
+namespace UMI_REMOTE {
 
     /**
     * initialization
