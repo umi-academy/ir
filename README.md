@@ -1,8 +1,6 @@
  # mbit_IR for micro-bit
 
-Extension for Yahboom mbit_IR
-
-Note: IR receiver for Yahboom receiver
+Extension for ABC 2.0
 
 ## License
 
