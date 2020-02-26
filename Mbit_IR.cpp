@@ -11,27 +11,27 @@ using namespace pxt;
 typedef vector<Action> vA;
 
 enum class RemoteButton {
-    Power = 0x0,
-	  Up = 0x1,
-	  Left = 0x4,
-	  Right = 0x6,
-	  Down = 0x9,
-	  Light = 0x2,
-	  BEEP = 0x5,
-	  Plus = 0xc,
-	  Minus = 0xe,
-	  TLeft = 0x8,
-	  TRight = 0xA,
-	  NUM0 = 0xD,
-	  NUM1 = 0x10,
-	  NUM2 = 0x11,
-	  NUM3 = 0x12,
-	  NUM4 = 0x14,
-	  NUM5 = 0x15,
-	  NUM6 = 0x16,
-	  NUM7 = 0x18,
-	  NUM8 = 0x19,
-	  NUM9 = 0x1A
+    CH_MINUS = 0x45,
+    CH = 0x46,
+    CH_Add = 0x47,
+    PREV = 0x44,
+    PLAY = 0x43,
+    NUM_200 = 0xd,
+    NEXT = 0x40,
+    NUM_100 = 0x19,
+    Minus = 0x7,
+    Add = 0x15,
+    EQ = 0x9,
+    NUM0 = 0x16,
+    NUM1 = 0xc,
+    NUM2 = 0x18,
+    NUM3 = 0x5e,
+    NUM4 = 0x8,
+    NUM5 = 0x1c,
+    NUM6 = 0x5a,
+    NUM7 = 0x42,
+    NUM8 = 0x52,
+    NUM9 = 0x4A
 };
 
 enum class Pins{
