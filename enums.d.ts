@@ -3,7 +3,6 @@
 
     declare const enum RemoteButton {
       //% block="CH-"
-      //% color="#940000"
       CH_MINUS = 0x45,
       //% block="CH"
       CH = 0x46,
