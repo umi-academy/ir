@@ -25,9 +25,9 @@ namespace UMI_Remote {
     */
     //% blockId=Mbit_IR_received_event
     //% block="on |%btn| button pressed"
-    //% button.fieldEditor="gridpicker"
-    //% button.fieldOptions.columns=3
-    //% button.fieldOptions.tooltips="false"
+    //% btn.fieldEditor="gridpicker"
+    //% btn.fieldOptions.columns=3
+    //% btn.fieldOptions.tooltips="false"
     //% weight=69
     //% shim=Mbit_IR::onPressEvent
     export function onPressEvent(btn: RemoteButton, body:Action): void {
