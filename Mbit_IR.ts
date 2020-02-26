@@ -29,6 +29,7 @@ namespace UMI_Remote {
     //% button.fieldOptions.columns=3
     //% button.fieldOptions.tooltips="false"
     //% weight=69
+    //% shim=Mbit_IR::onPressEvent
     export function onPressEvent(btn: RemoteButton, body:Action): void {
       return
     }
