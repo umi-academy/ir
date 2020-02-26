@@ -2,19 +2,19 @@
 
 
     declare const enum RemoteButton {
-      //% block="CH-"
+      //% block="CH-" color=#0fbc11
       CH_MINUS = 0x45,
       //% block="CH"
       CH = 0x46,
       //% block="CH+"
       CH_Add = 0x47,
-      //% block="|◀◀"
+      //% block="|<<"
       PREV = 0x44,
-      //% block="▶||"
+      //% block=">||"
       PLAY = 0x43,
       //% block="200+"
       NUM_200 = 0xd,
-      //% block="▶▶|"
+      //% block=">>|"
       NEXT = 0x40,
       //% block="100+"
       NUM_100 = 0x19,
