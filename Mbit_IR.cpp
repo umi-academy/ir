@@ -1,6 +1,6 @@
 /*
-Copyright (C): 2020, Shenzhen Yahboom Tech
-modified by chengengyue
+Copyright (C): 2020, UMI Academy
+modified by Ninh.D.H
 */
 
 #include "pxt.h"

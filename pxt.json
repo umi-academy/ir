@@ -1,7 +1,7 @@
 {
-    "name": "Mbit_IR",
+    "name": "UMI_REMOTE",
     "version": "1.0.1",
-    "description": "Extension for YahBoom Mbit_IR",
+    "description": "Extension for ABC 2.0 UMI_REMOTE",
     "dependencies": {
         "core": "*"
     },

@@ -4,7 +4,7 @@
     /**
      */
 
-    declare namespace Mbit_IR {
+    declare namespace UMI_REMOTE {
     }
     
     // Auto-generated. Do not edit. Really.
